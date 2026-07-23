@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Elfouly 👋</h1>
 
-<h3 align="center">AI/ML Student-Engineer building agentic and full-stack AI systems</h3>
+<h3 align="center">AI/ML Engineer building agentic and full-stack AI systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-elfouly-14ab612a5/">
