@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Elfouly 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Hamada 👋</h1>
 
 <h3 align="center">AI/ML Engineer building agentic and full-stack AI systems</h3>
 
