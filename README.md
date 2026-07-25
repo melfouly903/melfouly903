@@ -58,7 +58,7 @@ surfaced on a real-time React/Recharts HR dashboard.
 — *Why it's #1:* it's the clearest evidence of "AI agent embedded in a real
 product," with a UI a non-technical HR user could actually use.
 
-**2. [AI Hotel Booking Assistant](https://github.com/melfouly903)** *(add link once repo is public)*
+**2. [AI Hotel Booking Assistant]([https://github.com/melfouly903](https://github.com/melfouly903/Azure-Hotel_booking_system))** **
 A Telegram-native booking assistant: a Gemini-powered agent with
 conversation memory, a Supabase/pgvector RAG knowledge base for hotel FAQs,
 and two tool-workflows it calls autonomously to check live availability and
