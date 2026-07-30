@@ -136,18 +136,6 @@ Docker & Kubernetes basics · CI/CD · system design for AI-backed products
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=melfouly903&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melfouly903&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melfouly903&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   📫 Reach me at <a href="mailto:melfouly903@gmail.com">melfouly903@gmail.com</a> · <a href="https://www.linkedin.com/in/mohamed-elfouly-14ab612a5/">LinkedIn</a>
